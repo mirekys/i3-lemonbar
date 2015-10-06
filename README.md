@@ -18,10 +18,15 @@ Status feeder script is written completely in Python and uses [i3ipc] (https://g
 
 ``mkdir ~/.i3/lemonbar && git clone https://github.com/mirekys/i3-lemonbar.git ~/.i3/lemonbar``
 
-* Configure i3 to use lemonbar.
+* Configure i3 to use Lemonbar.
 
 ``
 bar {
         i3bar_command ~/.i3/lemonbar/i3_lemonbar.py
 }
 ``
+
+### Features
+
+* Event-based, rather than periodically updated
+* Multiple display output support
