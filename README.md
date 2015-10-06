@@ -1,6 +1,6 @@
 # i3-lemonbar
 
-Status script and configuration for [Lemonbar] ((https://github.com/LemonBoy/bar) and [i3wm] (https://i3wm.org/).
+Status script and configuration for [Lemonbar] (https://github.com/LemonBoy/bar) and [i3wm] (https://i3wm.org/).
 
 Configuration is taken from beautiful powerline setup by [electro7] (https://github.com/electro7/dotfiles/tree/master/.i3/lemonbar).
 
