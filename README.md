@@ -6,6 +6,11 @@ Configuration is taken from beautiful powerline setup by [electro7] (https://git
 
 Status feeder script is written completely in Python and uses [i3ipc] (https://github.com/acrisci/i3ipc-python) for most of the interaction with i3.
 
+### Features
+
+* Event-based, rather than periodically updated
+* Multiple display output support
+
 ### Installation
 
 * Install [lemonbar] (https://github.com/LemonBoy/bar).
@@ -24,7 +29,4 @@ Status feeder script is written completely in Python and uses [i3ipc] (https://g
                 i3bar_command ~/.i3/lemonbar/i3_lemonbar.py
         }
 
-### Features
 
-* Event-based, rather than periodically updated
-* Multiple display output support
